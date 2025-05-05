@@ -18,12 +18,12 @@ Smarter Decisions: Enabled AtliQ Hardware to identify trends and make data-drive
 
 ## Screenshots
 
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Home.png)
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Finance%20View.png)
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Sales%20View.png)
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Marketing%20View.png)
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Supply%20Chain%20View.png)
-![image Alt](https://github.com/KishanStark789/BI_360_REVAMPED/blob/d1eeb66fdc1f18d71207bebd25da18a40e11c805/Executive%20view.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Home.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Finance%20View.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Sales%20View.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Marketing%20View.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Supply%20Chain%20View.png)
+![image Alt](https://github.com/KishanStark789/BI_360_Initial/blob/9d9e8e4044b361620d2082d6cf256d18622f0131/Executive%20View.png)
 
 ## Data Sources
 
